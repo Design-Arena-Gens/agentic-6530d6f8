@@ -1,0 +1,9 @@
+tkinter
+requests
+Pillow
+moviepy
+pydub
+edge-tts
+whisperx
+torch
+torchaudio
